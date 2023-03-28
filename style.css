@@ -1,0 +1,15 @@
+.card{
+    padding: 0;
+}
+
+.card-body{
+    background: linear-gradient(to right, #a2ab58, #636363); 
+}
+
+button{
+    background: linear-gradient(to right, #a2ab58, #636363);
+}
+
+#rescard{
+    margin: 0% 5% 10% 25%;
+}
